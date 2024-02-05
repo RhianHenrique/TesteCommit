@@ -1,0 +1,14 @@
+git init: Inicializar um repositório git na pasta.
+
+git clone: para clonar um repositório.
+
+git add .: para preparar e adicionar altereções ao diretório, caso queira em um arquivo especifico 
+usar da seguinte forma -> git add <nome do arquivo>.
+
+git commit -m <mensagem>: para concretizar de fato a alteração.
+
+git status: para exibir o estado atual do repositório.
+
+git branch: para listar, excluir ou criar branchs do repositório, que são ramificações.
+
+git push: envio dos commits do branch local para o branch do repositório git
